@@ -1,3 +1,3 @@
 # Programmer
-bertugas mengembangkan coding dan memperbarui kode agar bisa berjalan pada versi terbaru
+bertugas mengembangkan coding, memperbarui kode agar bisa berjalan pada versi terbaru, dan debungging
 
